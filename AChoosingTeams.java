@@ -13,4 +13,4 @@ public class AChoosingTeams {
         }
         System.out.println(count / 3);
     }
-}
+}  
