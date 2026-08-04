@@ -1,6 +1,6 @@
 # Codeforces Java Solutions
 
-This repository contains **147** accepted Java solutions for various Codeforces problems, organized by topic.
+This repository contains **148** accepted Java solutions for various Codeforces problems, organized by topic.
 
 ## 📌 Repository Structure
 
@@ -9,7 +9,7 @@ The solutions are organized into the following topic subdirectories:
 | Topic Folder | Topic Name | Problem Count | Description |
 | :--- | :--- | :---: | :--- |
 | [Implementation/](./Implementation/) | **Implementation** | **41** | Basic simulation, logic, condition checks, simple loops and array traversals. |
-| [Math/](./Math/) | **Math** | **35** | Number theory, divisibility, geometry, formulas, modular arithmetic, ceiling/floor math. |
+| [Math/](./Math/) | **Math** | **36** | Number theory, divisibility, geometry, formulas, modular arithmetic, ceiling/floor math. |
 | [Greedy/](./Greedy/) | **Greedy** | **38** | Optimal decision making, min/max optimization, sorting and selection algorithms. |
 | [Strings/](./Strings/) | **Strings** | **8** | String manipulation, character counting, anagrams, substring operations. |
 | [Two_Pointers_and_Arrays/](./Two_Pointers_and_Arrays/) | **Two Pointers & Arrays** | **6** | Two-pointer technique, prefix sums, sliding window sweep. |
@@ -17,7 +17,7 @@ The solutions are organized into the following topic subdirectories:
 | [Bit_Manipulation/](./Bit_Manipulation/) | **Bit Manipulation** | **3** | XOR properties, bitwise masks, binary operations. |
 | [Data_Structures_and_Segment_Tree/](./Data_Structures_and_Segment_Tree/) | **Data Structures & Segment Tree** | **2** | Advanced data structures, balanced brackets, range queries, segment trees. |
 | [Constructive_and_Sorting/](./Constructive_and_Sorting/) | **Constructive & Sorting** | **12** | Constructive algorithms, custom sorting, array arrangements. |
-| **Total** | | **147** | |
+| **Total** | | **148** | |
 
 ---
 
@@ -67,7 +67,7 @@ The solutions are organized into the following topic subdirectories:
 - [D1DEraser.java](./Implementation/D1DEraser.java)
 - [FJzzhuAndChildren.java](./Implementation/FJzzhuAndChildren.java)
 
-### 📁 [Math](./Math/) (35 problems)
+### 📁 [Math](./Math/) (36 problems)
 
 - [AAiProjectDevelopment.java](./Math/AAiProjectDevelopment.java)
 - [AAliceAndBooks.java](./Math/AAliceAndBooks.java)
@@ -96,6 +96,7 @@ The solutions are organized into the following topic subdirectories:
 - [AThe67ThIntegerProblem.java](./Math/AThe67ThIntegerProblem.java)
 - [AThreePairwiseMaximums.java](./Math/AThreePairwiseMaximums.java)
 - [ATrippiTroppi.java](./Math/ATrippiTroppi.java)
+- [ATurtlePuzzleRearrangeAndNegate.java](./Math/ATurtlePuzzleRearrangeAndNegate.java)
 - [ATwoVessels.java](./Math/ATwoVessels.java)
 - [AVasyaAndCoins.java](./Math/AVasyaAndCoins.java)
 - [AYetAnotherTwoIntegersProblem.java](./Math/AYetAnotherTwoIntegersProblem.java)
