@@ -1,6 +1,6 @@
 # Codeforces Java Solutions
 
-This repository contains **149** accepted Java solutions for various Codeforces problems, organized by topic.
+This repository contains **157** accepted Java solutions for various Codeforces problems, organized by topic.
 
 ## 📌 Repository Structure
 
@@ -9,7 +9,7 @@ The solutions are organized into the following topic subdirectories:
 | Topic Folder | Topic Name | Problem Count | Description |
 | :--- | :--- | :---: | :--- |
 | [Implementation/](./Implementation/) | **Implementation** | **41** | Basic simulation, logic, condition checks, simple loops and array traversals. |
-| [Math/](./Math/) | **Math** | **37** | Number theory, divisibility, geometry, formulas, modular arithmetic, ceiling/floor math. |
+| [Math/](./Math/) | **Math** | **38** | Number theory, divisibility, geometry, formulas, modular arithmetic, ceiling/floor math. |
 | [Greedy/](./Greedy/) | **Greedy** | **38** | Optimal decision making, min/max optimization, sorting and selection algorithms. |
 | [Strings/](./Strings/) | **Strings** | **8** | String manipulation, character counting, anagrams, substring operations. |
 | [Two_Pointers_and_Arrays/](./Two_Pointers_and_Arrays/) | **Two Pointers & Arrays** | **6** | Two-pointer technique, prefix sums, sliding window sweep. |
@@ -17,7 +17,8 @@ The solutions are organized into the following topic subdirectories:
 | [Bit_Manipulation/](./Bit_Manipulation/) | **Bit Manipulation** | **3** | XOR properties, bitwise masks, binary operations. |
 | [Data_Structures_and_Segment_Tree/](./Data_Structures_and_Segment_Tree/) | **Data Structures & Segment Tree** | **2** | Advanced data structures, balanced brackets, range queries, segment trees. |
 | [Constructive_and_Sorting/](./Constructive_and_Sorting/) | **Constructive & Sorting** | **12** | Constructive algorithms, custom sorting, array arrangements. |
-| **Total** | | **149** | |
+| [PUCC_CONTEST/](./PUCC_CONTEST/) | **PUCC Contest** | **7** | Competitive programming contest problems from PUCC contests. |
+| **Total** | | **157** | |
 
 ---
 
@@ -67,7 +68,7 @@ The solutions are organized into the following topic subdirectories:
 - [D1DEraser.java](./Implementation/D1DEraser.java)
 - [FJzzhuAndChildren.java](./Implementation/FJzzhuAndChildren.java)
 
-### 📁 [Math](./Math/) (37 problems)
+### 📁 [Math](./Math/) (38 problems)
 
 - [AAiProjectDevelopment.java](./Math/AAiProjectDevelopment.java)
 - [AAliceAndBooks.java](./Math/AAliceAndBooks.java)
@@ -81,6 +82,7 @@ The solutions are organized into the following topic subdirectories:
 - [AEhabAndGcd.java](./Math/AEhabAndGcd.java)
 - [AFashionablee.java](./Math/AFashionablee.java)
 - [AFibonacciness.java](./Math/AFibonacciness.java)
+- [AGamesOnTheTrain.java](./Math/AGamesOnTheTrain.java)
 - [AIchihimeAndTriangle.java](./Math/AIchihimeAndTriangle.java)
 - [AMahmoudAndEhabAndTheEvenOddGame.java](./Math/AMahmoudAndEhabAndTheEvenOddGame.java)
 - [AMaximize.java](./Math/AMaximize.java)
@@ -198,6 +200,21 @@ The solutions are organized into the following topic subdirectories:
 - [ComfortableSeating.java](./Constructive_and_Sorting/ComfortableSeating.java)
 - [DYaroslavAndProductivity.java](./Constructive_and_Sorting/DYaroslavAndProductivity.java)
 - [EMashaAndTheGarland.java](./Constructive_and_Sorting/EMashaAndTheGarland.java)
+
+### 📁 [PUCC Contest](./PUCC_CONTEST/) (7 problems)
+
+#### 📁 [PUCC Contest 1](./PUCC_CONTEST/PUCC_CONTEST_1/) (3 problems)
+
+- [ATelephoneNumber.java](./PUCC_CONTEST/PUCC_CONTEST_1/ATelephoneNumber.java)
+- [BRoundDownThePrice.java](./PUCC_CONTEST/PUCC_CONTEST_1/BRoundDownThePrice.java)
+- [CProfessorGukizSRobot.java](./PUCC_CONTEST/PUCC_CONTEST_1/CProfessorGukizSRobot.java)
+
+#### 📁 [PUCC Contest 2](./PUCC_CONTEST/PUCC_CONTEST_2/) (4 problems)
+
+- [AHulk.java](./PUCC_CONTEST/PUCC_CONTEST_2/AHulk.java)
+- [BFromHeroToZero.java](./PUCC_CONTEST/PUCC_CONTEST_2/BFromHeroToZero.java)
+- [CDistinctSplit.java](./PUCC_CONTEST/PUCC_CONTEST_2/CDistinctSplit.java)
+- [DFriendsAndTheRestaurant.java](./PUCC_CONTEST/PUCC_CONTEST_2/DFriendsAndTheRestaurant.java)
 
 ---
 
