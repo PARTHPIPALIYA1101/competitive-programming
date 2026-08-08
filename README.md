@@ -1,6 +1,6 @@
 # Codeforces Java Solutions
 
-This repository contains **157** accepted Java solutions for various Codeforces problems, organized by topic.
+This repository contains **162** accepted Java solutions for various Codeforces problems, organized by topic.
 
 ## 📌 Repository Structure
 
@@ -17,8 +17,8 @@ The solutions are organized into the following topic subdirectories:
 | [Bit_Manipulation/](./Bit_Manipulation/) | **Bit Manipulation** | **3** | XOR properties, bitwise masks, binary operations. |
 | [Data_Structures_and_Segment_Tree/](./Data_Structures_and_Segment_Tree/) | **Data Structures & Segment Tree** | **2** | Advanced data structures, balanced brackets, range queries, segment trees. |
 | [Constructive_and_Sorting/](./Constructive_and_Sorting/) | **Constructive & Sorting** | **12** | Constructive algorithms, custom sorting, array arrangements. |
-| [PUCC_CONTEST/](./PUCC_CONTEST/) | **PUCC Contest** | **7** | Competitive programming contest problems from PUCC contests. |
-| **Total** | | **157** | |
+| [PUCC_CONTEST/](./PUCC_CONTEST/) | **PUCC Contest** | **12** | Competitive programming contest problems from PUCC contests. |
+| **Total** | | **162** | |
 
 ---
 
@@ -201,7 +201,7 @@ The solutions are organized into the following topic subdirectories:
 - [DYaroslavAndProductivity.java](./Constructive_and_Sorting/DYaroslavAndProductivity.java)
 - [EMashaAndTheGarland.java](./Constructive_and_Sorting/EMashaAndTheGarland.java)
 
-### 📁 [PUCC Contest](./PUCC_CONTEST/) (7 problems)
+### 📁 [PUCC Contest](./PUCC_CONTEST/) (12 problems)
 
 #### 📁 [PUCC Contest 1](./PUCC_CONTEST/PUCC_CONTEST_1/) (3 problems)
 
@@ -215,6 +215,14 @@ The solutions are organized into the following topic subdirectories:
 - [BFromHeroToZero.java](./PUCC_CONTEST/PUCC_CONTEST_2/BFromHeroToZero.java)
 - [CDistinctSplit.java](./PUCC_CONTEST/PUCC_CONTEST_2/CDistinctSplit.java)
 - [DFriendsAndTheRestaurant.java](./PUCC_CONTEST/PUCC_CONTEST_2/DFriendsAndTheRestaurant.java)
+
+#### 📁 [PUCC Contest Final](./PUCC_CONTEST/PUCC_CONTEST_FINAL/) (5 problems)
+
+- [AExpression.java](./PUCC_CONTEST/PUCC_CONTEST_FINAL/AExpression.java)
+- [BPizzaPizzaPizza.java](./PUCC_CONTEST/PUCC_CONTEST_FINAL/BPizzaPizzaPizza.java)
+- [CPhoneNumbers.java](./PUCC_CONTEST/PUCC_CONTEST_FINAL/CPhoneNumbers.java)
+- [DHomework.java](./PUCC_CONTEST/PUCC_CONTEST_FINAL/DHomework.java)
+- [GRowGcd.java](./PUCC_CONTEST/PUCC_CONTEST_FINAL/GRowGcd.java)
 
 ---
 
