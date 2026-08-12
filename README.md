@@ -1,6 +1,6 @@
 # Codeforces Java Solutions
 
-This repository contains **164** accepted Java solutions for various Codeforces problems, organized by topic.
+This repository contains **165** accepted Java solutions for various Codeforces problems, organized by topic.
 
 ## 📌 Repository Structure
 
@@ -11,14 +11,14 @@ The solutions are organized into the following topic subdirectories:
 | [Implementation/](./Implementation/) | **Implementation** | **41** | Basic simulation, logic, condition checks, simple loops and array traversals. |
 | [Math/](./Math/) | **Math** | **40** | Number theory, divisibility, geometry, formulas, modular arithmetic, ceiling/floor math. |
 | [Greedy/](./Greedy/) | **Greedy** | **38** | Optimal decision making, min/max optimization, sorting and selection algorithms. |
-| [Strings/](./Strings/) | **Strings** | **8** | String manipulation, character counting, anagrams, substring operations. |
+| [Strings/](./Strings/) | **Strings** | **9** | String manipulation, character counting, anagrams, substring operations. |
 | [Two_Pointers_and_Arrays/](./Two_Pointers_and_Arrays/) | **Two Pointers & Arrays** | **6** | Two-pointer technique, prefix sums, sliding window sweep. |
 | [Binary_Search/](./Binary_Search/) | **Binary Search** | **2** | Binary search on search space and sorted arrays. |
 | [Bit_Manipulation/](./Bit_Manipulation/) | **Bit Manipulation** | **3** | XOR properties, bitwise masks, binary operations. |
 | [Data_Structures_and_Segment_Tree/](./Data_Structures_and_Segment_Tree/) | **Data Structures & Segment Tree** | **2** | Advanced data structures, balanced brackets, range queries, segment trees. |
 | [Constructive_and_Sorting/](./Constructive_and_Sorting/) | **Constructive & Sorting** | **12** | Constructive algorithms, custom sorting, array arrangements. |
 | [PUCC_CONTEST/](./PUCC_CONTEST/) | **PUCC Contest** | **12** | Competitive programming contest problems from PUCC contests. |
-| **Total** | | **164** | |
+| **Total** | | **165** | |
 
 ---
 
@@ -152,11 +152,12 @@ The solutions are organized into the following topic subdirectories:
 - [ECinemaLine.java](./Greedy/ECinemaLine.java)
 - [Partition.java](./Greedy/Partition.java)
 
-### 📁 [Strings](./Strings/) (8 problems)
+### 📁 [Strings](./Strings/) (9 problems)
 
 - [AAmusingJoke.java](./Strings/AAmusingJoke.java)
 - [ADiverseStrings.java](./Strings/ADiverseStrings.java)
 - [ALetterHome.java](./Strings/ALetterHome.java)
+- [AYouDeleteIDelete.java](./Strings/AYouDeleteIDelete.java)
 - [AZhilyAndBracketSwapping.java](./Strings/AZhilyAndBracketSwapping.java)
 - [BDeleteAndConcatenate.java](./Strings/BDeleteAndConcatenate.java)
 - [BinarySmile.java](./Strings/BinarySmile.java)
