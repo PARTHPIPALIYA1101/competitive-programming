@@ -8,7 +8,7 @@ The solutions are organized into the following topic subdirectories:
 
 | Topic Folder | Topic Name | Problem Count | Description |
 | :--- | :--- | :---: | :--- |
-| [Implementation/](./Implementation/) | **Implementation** | **41** | Basic simulation, logic, condition checks, simple loops and array traversals. |
+| [Implementation/](./Implementation/) | **Implementation** | **42** | Basic simulation, logic, condition checks, simple loops and array traversals. |
 | [Math/](./Math/) | **Math** | **41** | Number theory, divisibility, geometry, formulas, modular arithmetic, ceiling/floor math. |
 | [Greedy/](./Greedy/) | **Greedy** | **38** | Optimal decision making, min/max optimization, sorting and selection algorithms. |
 | [Strings/](./Strings/) | **Strings** | **9** | String manipulation, character counting, anagrams, substring operations. |
@@ -18,13 +18,13 @@ The solutions are organized into the following topic subdirectories:
 | [Data_Structures_and_Segment_Tree/](./Data_Structures_and_Segment_Tree/) | **Data Structures & Segment Tree** | **2** | Advanced data structures, balanced brackets, range queries, segment trees. |
 | [Constructive_and_Sorting/](./Constructive_and_Sorting/) | **Constructive & Sorting** | **12** | Constructive algorithms, custom sorting, array arrangements. |
 | [PUCC_CONTEST/](./PUCC_CONTEST/) | **PUCC Contest** | **12** | Competitive programming contest problems from PUCC contests. |
-| **Total** | | **166** | |
+| **Total** | | **167** | |
 
 ---
 
 ## 📚 Problem Catalog by Topic
 
-### 📁 [Implementation](./Implementation/) (41 problems)
+### 📁 [Implementation](./Implementation/) (42 problems)
 
 - [AAmbitiousKid.java](./Implementation/AAmbitiousKid.java)
 - [ABlackSquare.java](./Implementation/ABlackSquare.java)
@@ -63,6 +63,7 @@ The solutions are organized into the following topic subdirectories:
 - [BNotQuiteLatinSquare.java](./Implementation/BNotQuiteLatinSquare.java)
 - [BOsuMania.java](./Implementation/BOsuMania.java)
 - [BSkibidusAndOhio.java](./Implementation/BSkibidusAndOhio.java)
+- [CShowering.java](./Implementation/CShowering.java)
 - [CWhereSTheBishop.java](./Implementation/CWhereSTheBishop.java)
 - [CWordOnThePaper.java](./Implementation/CWordOnThePaper.java)
 - [D1DEraser.java](./Implementation/D1DEraser.java)
