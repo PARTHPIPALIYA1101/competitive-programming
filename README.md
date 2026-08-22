@@ -1,6 +1,6 @@
 # Codeforces Java Solutions
 
-This repository contains **174** accepted Java solutions for various Codeforces problems, organized by topic.
+This repository contains **175** accepted Java solutions for various Codeforces problems, organized by topic.
 
 ## 📌 Repository Structure
 
@@ -9,7 +9,7 @@ The solutions are organized into the following topic subdirectories:
 | Topic Folder | Topic Name | Problem Count | Description |
 | :--- | :--- | :---: | :--- |
 | [Implementation/](./Implementation/) | **Implementation** | **43** | Basic simulation, logic, condition checks, simple loops and array traversals. |
-| [Math/](./Math/) | **Math** | **43** | Number theory, divisibility, geometry, formulas, modular arithmetic, ceiling/floor math. |
+| [Math/](./Math/) | **Math** | **44** | Number theory, divisibility, geometry, formulas, modular arithmetic, ceiling/floor math. |
 | [Greedy/](./Greedy/) | **Greedy** | **40** | Optimal decision making, min/max optimization, sorting and selection algorithms. |
 | [Strings/](./Strings/) | **Strings** | **10** | String manipulation, character counting, anagrams, substring operations. |
 | [Two_Pointers_and_Arrays/](./Two_Pointers_and_Arrays/) | **Two Pointers & Arrays** | **6** | Two-pointer technique, prefix sums, sliding window sweep. |
@@ -18,7 +18,7 @@ The solutions are organized into the following topic subdirectories:
 | [Data_Structures_and_Segment_Tree/](./Data_Structures_and_Segment_Tree/) | **Data Structures & Segment Tree** | **2** | Advanced data structures, balanced brackets, range queries, segment trees. |
 | [Constructive_and_Sorting/](./Constructive_and_Sorting/) | **Constructive & Sorting** | **12** | Constructive algorithms, custom sorting, array arrangements. |
 | [PUCC_CONTEST/](./PUCC_CONTEST/) | **PUCC Contest** | **12** | Competitive programming contest problems from PUCC contests. |
-| **Total** | | **174** | |
+| **Total** | | **175** | |
 
 ---
 
@@ -70,7 +70,7 @@ The solutions are organized into the following topic subdirectories:
 - [D1DEraser.java](./Implementation/D1DEraser.java)
 - [FJzzhuAndChildren.java](./Implementation/FJzzhuAndChildren.java)
 
-### 📁 [Math](./Math/) (43 problems)
+### 📁 [Math](./Math/) (44 problems)
 
 - [AAiProjectDevelopment.java](./Math/AAiProjectDevelopment.java)
 - [AAliceAndBooks.java](./Math/AAliceAndBooks.java)
@@ -84,6 +84,7 @@ The solutions are organized into the following topic subdirectories:
 - [AEhabAndGcd.java](./Math/AEhabAndGcd.java)
 - [AFashionablee.java](./Math/AFashionablee.java)
 - [AFibonacciness.java](./Math/AFibonacciness.java)
+- [AGameOfDivision.java](./Math/AGameOfDivision.java)
 - [AGamesOnTheTrain.java](./Math/AGamesOnTheTrain.java)
 - [AGregorAndCryptography.java](./Math/AGregorAndCryptography.java)
 - [AIchihimeAndTriangle.java](./Math/AIchihimeAndTriangle.java)
