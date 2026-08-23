@@ -10,12 +10,12 @@ The solutions are organized into the following topic subdirectories:
 | :--- | :--- | :---: | :--- |
 | [Implementation/](./Implementation/) | **Implementation** | **43** | Basic simulation, logic, condition checks, simple loops and array traversals. |
 | [Math/](./Math/) | **Math** | **45** | Number theory, divisibility, geometry, formulas, modular arithmetic, ceiling/floor math. |
-| [Greedy/](./Greedy/) | **Greedy** | **40** | Optimal decision making, min/max optimization, sorting and selection algorithms. |
+| [Greedy/](./Greedy/) | **Greedy** | **39** | Optimal decision making, min/max optimization, sorting and selection algorithms. |
 | [Strings/](./Strings/) | **Strings** | **10** | String manipulation, character counting, anagrams, substring operations. |
 | [Two_Pointers_and_Arrays/](./Two_Pointers_and_Arrays/) | **Two Pointers & Arrays** | **6** | Two-pointer technique, prefix sums, sliding window sweep. |
 | [Binary_Search/](./Binary_Search/) | **Binary Search** | **3** | Binary search on search space and sorted arrays. |
 | [Bit_Manipulation/](./Bit_Manipulation/) | **Bit Manipulation** | **3** | Bitwise operations, XOR properties, masks, binary representation. |
-| [Data_Structures_and_Segment_Tree/](./Data_Structures_and_Segment_Tree/) | **Data Structures & Segment Tree** | **2** | Advanced data structures, balanced brackets, range queries, segment trees. |
+| [Data_Structures_and_Segment_Tree/](./Data_Structures_and_Segment_Tree/) | **Data Structures & Segment Tree** | **3** | Advanced data structures, balanced brackets, range queries, segment trees. |
 | [Constructive_and_Sorting/](./Constructive_and_Sorting/) | **Constructive & Sorting** | **12** | Constructive algorithms, custom sorting, array arrangements. |
 | [PUCC_CONTEST/](./PUCC_CONTEST/) | **PUCC Contest** | **12** | Competitive programming contest problems from PUCC contests. |
 | **Total** | | **176** | |
@@ -118,9 +118,8 @@ The solutions are organized into the following topic subdirectories:
 - [CountingLcmEasy.java](./Math/CountingLcmEasy.java)
 - [CSumInBinaryTree.java](./Math/CSumInBinaryTree.java)
 
-### 📁 [Greedy](./Greedy/) (40 problems)
+### 📁 [Greedy](./Greedy/) (39 problems)
 
-- [AAndThenThereWereK.java](./Greedy/AAndThenThereWereK.java)
 - [ADesorting.java](./Greedy/ADesorting.java)
 - [ADoremySPaint3.java](./Greedy/ADoremySPaint3.java)
 - [ADragons.java](./Greedy/ADragons.java)
@@ -191,13 +190,14 @@ The solutions are organized into the following topic subdirectories:
 
 ### 📁 [Bit Manipulation](./Bit_Manipulation/) (3 problems)
 
+- [AAndThenThereWereK.java](./Bit_Manipulation/AAndThenThereWereK.java)
 - [AAnotherPopcountProblem.java](./Bit_Manipulation/AAnotherPopcountProblem.java)
 - [AWeNeedTheZero.java](./Bit_Manipulation/AWeNeedTheZero.java)
-- [DXeniaAndBitOperations.java](./Bit_Manipulation/DXeniaAndBitOperations.java)
 
-### 📁 [Data Structures & Segment Tree](./Data_Structures_and_Segment_Tree/) (2 problems)
+### 📁 [Data Structures & Segment Tree](./Data_Structures_and_Segment_Tree/) (3 problems)
 
 - [CSerejaAndBrackets.java](./Data_Structures_and_Segment_Tree/CSerejaAndBrackets.java)
+- [DXeniaAndBitOperations.java](./Data_Structures_and_Segment_Tree/DXeniaAndBitOperations.java)
 - [EXorOnSegment.java](./Data_Structures_and_Segment_Tree/EXorOnSegment.java)
 
 ### 📁 [Constructive & Sorting](./Constructive_and_Sorting/) (12 problems)
