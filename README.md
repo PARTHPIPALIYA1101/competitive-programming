@@ -1,6 +1,6 @@
 # Codeforces Java Solutions
 
-This repository contains **176** accepted Java solutions for various Codeforces problems, organized by topic.
+This repository contains **177** accepted Java solutions for various Codeforces problems, organized by topic.
 
 ## 📌 Repository Structure
 
@@ -10,7 +10,7 @@ The solutions are organized into the following topic subdirectories:
 | :--- | :--- | :---: | :--- |
 | [Implementation/](./Implementation/) | **Implementation** | **43** | Basic simulation, logic, condition checks, simple loops and array traversals. |
 | [Math/](./Math/) | **Math** | **45** | Number theory, divisibility, geometry, formulas, modular arithmetic, ceiling/floor math. |
-| [Greedy/](./Greedy/) | **Greedy** | **39** | Optimal decision making, min/max optimization, sorting and selection algorithms. |
+| [Greedy/](./Greedy/) | **Greedy** | **40** | Optimal decision making, min/max optimization, sorting and selection algorithms. |
 | [Strings/](./Strings/) | **Strings** | **10** | String manipulation, character counting, anagrams, substring operations. |
 | [Two_Pointers_and_Arrays/](./Two_Pointers_and_Arrays/) | **Two Pointers & Arrays** | **6** | Two-pointer technique, prefix sums, sliding window sweep. |
 | [Binary_Search/](./Binary_Search/) | **Binary Search** | **3** | Binary search on search space and sorted arrays. |
@@ -18,7 +18,7 @@ The solutions are organized into the following topic subdirectories:
 | [Data_Structures_and_Segment_Tree/](./Data_Structures_and_Segment_Tree/) | **Data Structures & Segment Tree** | **3** | Advanced data structures, balanced brackets, range queries, segment trees. |
 | [Constructive_and_Sorting/](./Constructive_and_Sorting/) | **Constructive & Sorting** | **12** | Constructive algorithms, custom sorting, array arrangements. |
 | [PUCC_CONTEST/](./PUCC_CONTEST/) | **PUCC Contest** | **12** | Competitive programming contest problems from PUCC contests. |
-| **Total** | | **176** | |
+| **Total** | | **177** | |
 
 ---
 
@@ -118,7 +118,7 @@ The solutions are organized into the following topic subdirectories:
 - [CountingLcmEasy.java](./Math/CountingLcmEasy.java)
 - [CSumInBinaryTree.java](./Math/CSumInBinaryTree.java)
 
-### 📁 [Greedy](./Greedy/) (39 problems)
+### 📁 [Greedy](./Greedy/) (40 problems)
 
 - [ADesorting.java](./Greedy/ADesorting.java)
 - [ADoremySPaint3.java](./Greedy/ADoremySPaint3.java)
@@ -134,6 +134,7 @@ The solutions are organized into the following topic subdirectories:
 - [APassingTheBall.java](./Greedy/APassingTheBall.java)
 - [ASashaAndArrayColoring.java](./Greedy/ASashaAndArrayColoring.java)
 - [ASlimesOnALine.java](./Greedy/ASlimesOnALine.java)
+- [ATwice.java](./Greedy/ATwice.java)
 - [ATwins.java](./Greedy/ATwins.java)
 - [AUnitArray.java](./Greedy/AUnitArray.java)
 - [AWalkingMaster.java](./Greedy/AWalkingMaster.java)
