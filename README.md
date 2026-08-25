@@ -1,6 +1,6 @@
 # Codeforces Java Solutions
 
-This repository contains **177** accepted Java solutions for various Codeforces problems, organized by topic.
+This repository contains **178** accepted Java solutions for various Codeforces problems, organized by topic.
 
 ## 📌 Repository Structure
 
@@ -16,9 +16,9 @@ The solutions are organized into the following topic subdirectories:
 | [Binary_Search/](./Binary_Search/) | **Binary Search** | **3** | Binary search on search space and sorted arrays. |
 | [Bit_Manipulation/](./Bit_Manipulation/) | **Bit Manipulation** | **3** | Bitwise operations, XOR properties, masks, binary representation. |
 | [Data_Structures_and_Segment_Tree/](./Data_Structures_and_Segment_Tree/) | **Data Structures & Segment Tree** | **3** | Advanced data structures, balanced brackets, range queries, segment trees. |
-| [Constructive_and_Sorting/](./Constructive_and_Sorting/) | **Constructive & Sorting** | **12** | Constructive algorithms, custom sorting, array arrangements. |
+| [Constructive_and_Sorting/](./Constructive_and_Sorting/) | **Constructive & Sorting** | **13** | Constructive algorithms, custom sorting, array arrangements. |
 | [PUCC_CONTEST/](./PUCC_CONTEST/) | **PUCC Contest** | **12** | Competitive programming contest problems from PUCC contests. |
-| **Total** | | **177** | |
+| **Total** | | **178** | |
 
 ---
 
@@ -201,7 +201,7 @@ The solutions are organized into the following topic subdirectories:
 - [DXeniaAndBitOperations.java](./Data_Structures_and_Segment_Tree/DXeniaAndBitOperations.java)
 - [EXorOnSegment.java](./Data_Structures_and_Segment_Tree/EXorOnSegment.java)
 
-### 📁 [Constructive & Sorting](./Constructive_and_Sorting/) (12 problems)
+### 📁 [Constructive & Sorting](./Constructive_and_Sorting/) (13 problems)
 
 - [ADbmbAndTheArray.java](./Constructive_and_Sorting/ADbmbAndTheArray.java)
 - [ADrawASquare.java](./Constructive_and_Sorting/ADrawASquare.java)
@@ -211,6 +211,7 @@ The solutions are organized into the following topic subdirectories:
 - [ASpecialPermutation.java](./Constructive_and_Sorting/ASpecialPermutation.java)
 - [ASystemOfEquations.java](./Constructive_and_Sorting/ASystemOfEquations.java)
 - [AWhoWatchesTheWatchpig.java](./Constructive_and_Sorting/AWhoWatchesTheWatchpig.java)
+- [BChoosingCubes.java](./Constructive_and_Sorting/BChoosingCubes.java)
 - [ComfortableSeating.java](./Constructive_and_Sorting/ComfortableSeating.java)
 - [CStepanAndPermutation.java](./Constructive_and_Sorting/CStepanAndPermutation.java)
 - [DYaroslavAndProductivity.java](./Constructive_and_Sorting/DYaroslavAndProductivity.java)
