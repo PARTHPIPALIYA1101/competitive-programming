@@ -1,6 +1,6 @@
 # Codeforces Java Solutions
 
-This repository contains **178** accepted Java solutions for various Codeforces problems, organized by topic.
+This repository contains **183** accepted Java solutions for various Codeforces problems, organized by topic.
 
 ## 📌 Repository Structure
 
@@ -8,23 +8,23 @@ The solutions are organized into the following topic subdirectories:
 
 | Topic Folder | Topic Name | Problem Count | Description |
 | :--- | :--- | :---: | :--- |
-| [Implementation/](./Implementation/) | **Implementation** | **43** | Basic simulation, logic, condition checks, simple loops and array traversals. |
-| [Math/](./Math/) | **Math** | **45** | Number theory, divisibility, geometry, formulas, modular arithmetic, ceiling/floor math. |
-| [Greedy/](./Greedy/) | **Greedy** | **40** | Optimal decision making, min/max optimization, sorting and selection algorithms. |
+| [Implementation/](./Implementation/) | **Implementation** | **44** | Basic simulation, logic, condition checks, simple loops and array traversals. |
+| [Math/](./Math/) | **Math** | **46** | Number theory, divisibility, geometry, formulas, modular arithmetic, ceiling/floor math. |
+| [Greedy/](./Greedy/) | **Greedy** | **42** | Optimal decision making, min/max optimization, sorting and selection algorithms. |
 | [Strings/](./Strings/) | **Strings** | **10** | String manipulation, character counting, anagrams, substring operations. |
 | [Two_Pointers_and_Arrays/](./Two_Pointers_and_Arrays/) | **Two Pointers & Arrays** | **6** | Two-pointer technique, prefix sums, sliding window sweep. |
 | [Binary_Search/](./Binary_Search/) | **Binary Search** | **3** | Binary search on search space and sorted arrays. |
 | [Bit_Manipulation/](./Bit_Manipulation/) | **Bit Manipulation** | **3** | Bitwise operations, XOR properties, masks, binary representation. |
 | [Data_Structures_and_Segment_Tree/](./Data_Structures_and_Segment_Tree/) | **Data Structures & Segment Tree** | **3** | Advanced data structures, balanced brackets, range queries, segment trees. |
-| [Constructive_and_Sorting/](./Constructive_and_Sorting/) | **Constructive & Sorting** | **13** | Constructive algorithms, custom sorting, array arrangements. |
+| [Constructive_and_Sorting/](./Constructive_and_Sorting/) | **Constructive & Sorting** | **14** | Constructive algorithms, custom sorting, array arrangements. |
 | [PUCC_CONTEST/](./PUCC_CONTEST/) | **PUCC Contest** | **12** | Competitive programming contest problems from PUCC contests. |
-| **Total** | | **178** | |
+| **Total** | | **183** | |
 
 ---
 
 ## 📚 Problem Catalog by Topic
 
-### 📁 [Implementation](./Implementation/) (43 problems)
+### 📁 [Implementation](./Implementation/) (44 problems)
 
 - [AAmbitiousKid.java](./Implementation/AAmbitiousKid.java)
 - [ABlackSquare.java](./Implementation/ABlackSquare.java)
@@ -47,6 +47,7 @@ The solutions are organized into the following topic subdirectories:
 - [APresents.java](./Implementation/APresents.java)
 - [AProblemGenerator.java](./Implementation/AProblemGenerator.java)
 - [AQuintomania.java](./Implementation/AQuintomania.java)
+- [AReconnaissance2.java](./Implementation/AReconnaissance2.java)
 - [ASkibidusAndAmogU.java](./Implementation/ASkibidusAndAmogU.java)
 - [ASpellCheck.java](./Implementation/ASpellCheck.java)
 - [ASquare.java](./Implementation/ASquare.java)
@@ -70,7 +71,7 @@ The solutions are organized into the following topic subdirectories:
 - [D1DEraser.java](./Implementation/D1DEraser.java)
 - [FJzzhuAndChildren.java](./Implementation/FJzzhuAndChildren.java)
 
-### 📁 [Math](./Math/) (45 problems)
+### 📁 [Math](./Math/) (46 problems)
 
 - [AAiProjectDevelopment.java](./Math/AAiProjectDevelopment.java)
 - [AAliceAndBooks.java](./Math/AAliceAndBooks.java)
@@ -79,6 +80,7 @@ The solutions are organized into the following topic subdirectories:
 - [AArrayDivisibility.java](./Math/AArrayDivisibility.java)
 - [ABachgoldProblem.java](./Math/ABachgoldProblem.java)
 - [ABeautifulAverage.java](./Math/ABeautifulAverage.java)
+- [ABlackslexAndPassword.java](./Math/ABlackslexAndPassword.java)
 - [AC.java](./Math/AC.java)
 - [ADivideAndConquer.java](./Math/ADivideAndConquer.java)
 - [AEhabAndGcd.java](./Math/AEhabAndGcd.java)
@@ -115,10 +117,10 @@ The solutions are organized into the following topic subdirectories:
 - [BThe67Th67IntegerProblem.java](./Math/BThe67Th67IntegerProblem.java)
 - [BTheThirdSide.java](./Math/BTheThirdSide.java)
 - [BWhoSOpposite.java](./Math/BWhoSOpposite.java)
-- [CountingLcmEasy.java](./Math/CountingLcmEasy.java)
 - [CSumInBinaryTree.java](./Math/CSumInBinaryTree.java)
+- [CountingLcmEasy.java](./Math/CountingLcmEasy.java)
 
-### 📁 [Greedy](./Greedy/) (40 problems)
+### 📁 [Greedy](./Greedy/) (42 problems)
 
 - [ADesorting.java](./Greedy/ADesorting.java)
 - [ADoremySPaint3.java](./Greedy/ADoremySPaint3.java)
@@ -134,12 +136,14 @@ The solutions are organized into the following topic subdirectories:
 - [APassingTheBall.java](./Greedy/APassingTheBall.java)
 - [ASashaAndArrayColoring.java](./Greedy/ASashaAndArrayColoring.java)
 - [ASlimesOnALine.java](./Greedy/ASlimesOnALine.java)
+- [AStoneGame.java](./Greedy/AStoneGame.java)
 - [ATwice.java](./Greedy/ATwice.java)
 - [ATwins.java](./Greedy/ATwins.java)
 - [AUnitArray.java](./Greedy/AUnitArray.java)
 - [AWalkingMaster.java](./Greedy/AWalkingMaster.java)
 - [BAbsoluteCinema.java](./Greedy/BAbsoluteCinema.java)
 - [BAllDistinct.java](./Greedy/BAllDistinct.java)
+- [BArrangingCats.java](./Greedy/BArrangingCats.java)
 - [BCopycopycopycopycopy.java](./Greedy/BCopycopycopycopycopy.java)
 - [BDigitString.java](./Greedy/BDigitString.java)
 - [BDragons.java](./Greedy/BDragons.java)
@@ -171,8 +175,8 @@ The solutions are organized into the following topic subdirectories:
 - [AZhilyAndBracketSwapping.java](./Strings/AZhilyAndBracketSwapping.java)
 - [BDeleteAndConcatenate.java](./Strings/BDeleteAndConcatenate.java)
 - [BinarySmile.java](./Strings/BinarySmile.java)
-- [CountingCharacters.java](./Strings/CountingCharacters.java)
 - [CStringTask.java](./Strings/CStringTask.java)
+- [CountingCharacters.java](./Strings/CountingCharacters.java)
 
 ### 📁 [Two Pointers & Arrays](./Two_Pointers_and_Arrays/) (6 problems)
 
@@ -201,7 +205,7 @@ The solutions are organized into the following topic subdirectories:
 - [DXeniaAndBitOperations.java](./Data_Structures_and_Segment_Tree/DXeniaAndBitOperations.java)
 - [EXorOnSegment.java](./Data_Structures_and_Segment_Tree/EXorOnSegment.java)
 
-### 📁 [Constructive & Sorting](./Constructive_and_Sorting/) (13 problems)
+### 📁 [Constructive & Sorting](./Constructive_and_Sorting/) (14 problems)
 
 - [ADbmbAndTheArray.java](./Constructive_and_Sorting/ADbmbAndTheArray.java)
 - [ADrawASquare.java](./Constructive_and_Sorting/ADrawASquare.java)
@@ -212,8 +216,9 @@ The solutions are organized into the following topic subdirectories:
 - [ASystemOfEquations.java](./Constructive_and_Sorting/ASystemOfEquations.java)
 - [AWhoWatchesTheWatchpig.java](./Constructive_and_Sorting/AWhoWatchesTheWatchpig.java)
 - [BChoosingCubes.java](./Constructive_and_Sorting/BChoosingCubes.java)
-- [ComfortableSeating.java](./Constructive_and_Sorting/ComfortableSeating.java)
+- [CIsamatdinAndHisMagicWand.java](./Constructive_and_Sorting/CIsamatdinAndHisMagicWand.java)
 - [CStepanAndPermutation.java](./Constructive_and_Sorting/CStepanAndPermutation.java)
+- [ComfortableSeating.java](./Constructive_and_Sorting/ComfortableSeating.java)
 - [DYaroslavAndProductivity.java](./Constructive_and_Sorting/DYaroslavAndProductivity.java)
 - [EMashaAndTheGarland.java](./Constructive_and_Sorting/EMashaAndTheGarland.java)
 
