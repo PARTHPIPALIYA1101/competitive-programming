@@ -9,7 +9,7 @@ public class CMinimumVariedNumber {
             for(int i=9;i>=1&&s>0;i--){
                 if(s>=i){
                     ans.append(i);
-                    s-=i;
+                    s-=  i;
                 }
             }
             System.out.println(ans.reverse());
