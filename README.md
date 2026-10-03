@@ -1,6 +1,6 @@
 # Codeforces Java Solutions
 
-This repository contains **191** accepted Java solutions for various Codeforces problems, organized by topic.
+This repository contains **213** accepted Java solutions for various Codeforces problems, organized by topic.
 
 ## 📌 Repository Structure
 
@@ -8,29 +8,30 @@ The solutions are organized into the following topic subdirectories:
 
 | Topic Folder | Topic Name | Problem Count | Description |
 | :--- | :--- | :---: | :--- |
-| [Implementation/](./Implementation/) | **Implementation** | **46** | Basic simulation, logic, condition checks, simple loops and array traversals. |
-| [Math/](./Math/) | **Math** | **48** | Number theory, divisibility, geometry, formulas, modular arithmetic, ceiling/floor math. |
-| [Greedy/](./Greedy/) | **Greedy** | **45** | Optimal decision making, min/max optimization, sorting and selection algorithms. |
-| [Strings/](./Strings/) | **Strings** | **11** | String manipulation, character counting, anagrams, substring operations. |
-| [Two_Pointers_and_Arrays/](./Two_Pointers_and_Arrays/) | **Two Pointers & Arrays** | **6** | Two-pointer technique, prefix sums, sliding window sweep. |
+| [Implementation/](./Implementation/) | **Implementation** | **51** | Basic simulation, logic, condition checks, simple loops and array traversals. |
+| [Math/](./Math/) | **Math** | **55** | Number theory, divisibility, geometry, formulas, modular arithmetic, ceiling/floor math. |
+| [Greedy/](./Greedy/) | **Greedy** | **47** | Optimal decision making, min/max optimization, sorting and selection algorithms. |
+| [Strings/](./Strings/) | **Strings** | **14** | String manipulation, character counting, anagrams, substring operations. |
+| [Two_Pointers_and_Arrays/](./Two_Pointers_and_Arrays/) | **Two Pointers & Arrays** | **8** | Two-pointer technique, prefix sums, sliding window sweep. |
 | [Binary_Search/](./Binary_Search/) | **Binary Search** | **3** | Binary search on search space and sorted arrays. |
 | [Bit_Manipulation/](./Bit_Manipulation/) | **Bit Manipulation** | **3** | Bitwise operations, XOR properties, masks, binary representation. |
 | [Data_Structures_and_Segment_Tree/](./Data_Structures_and_Segment_Tree/) | **Data Structures & Segment Tree** | **3** | Advanced data structures, balanced brackets, range queries, segment trees. |
-| [Constructive_and_Sorting/](./Constructive_and_Sorting/) | **Constructive & Sorting** | **14** | Constructive algorithms, custom sorting, array arrangements. |
+| [Constructive_and_Sorting/](./Constructive_and_Sorting/) | **Constructive & Sorting** | **17** | Constructive algorithms, custom sorting, array arrangements. |
 | [PUCC_CONTEST/](./PUCC_CONTEST/) | **PUCC Contest** | **12** | Competitive programming contest problems from PUCC contests. |
-| **Total** | | **191** | |
+| **Total** | | **213** | |
 
 ---
 
 ## 📚 Problem Catalog by Topic
 
-### 📁 [Implementation](./Implementation/) (46 problems)
+### 📁 [Implementation](./Implementation/) (51 problems)
 
 - [AAmbitiousKid.java](./Implementation/AAmbitiousKid.java)
 - [ABlackSquare.java](./Implementation/ABlackSquare.java)
 - [ABrainSPhotos.java](./Implementation/ABrainSPhotos.java)
 - [AButtons.java](./Implementation/AButtons.java)
 - [ACardsForFriends.java](./Implementation/ACardsForFriends.java)
+- [AChatServerSOutgoingTraffic.java](./Implementation/AChatServerSOutgoingTraffic.java)
 - [AChoosingTeams.java](./Implementation/AChoosingTeams.java)
 - [ACipherShifer.java](./Implementation/ACipherShifer.java)
 - [ACoins.java](./Implementation/ACoins.java)
@@ -43,12 +44,15 @@ The solutions are organized into the following topic subdirectories:
 - [AILoveUsername.java](./Implementation/AILoveUsername.java)
 - [AInsomniaCure.java](./Implementation/AInsomniaCure.java)
 - [ALegs.java](./Implementation/ALegs.java)
+- [AMonocarpSContest.java](./Implementation/AMonocarpSContest.java)
 - [ANightAtTheMuseum.java](./Implementation/ANightAtTheMuseum.java)
 - [AParkLighting.java](./Implementation/AParkLighting.java)
 - [APresents.java](./Implementation/APresents.java)
+- [APrimaryTask.java](./Implementation/APrimaryTask.java)
 - [AProblemGenerator.java](./Implementation/AProblemGenerator.java)
 - [AQuintomania.java](./Implementation/AQuintomania.java)
 - [AReconnaissance2.java](./Implementation/AReconnaissance2.java)
+- [ARiptide.java](./Implementation/ARiptide.java)
 - [ASkibidusAndAmogU.java](./Implementation/ASkibidusAndAmogU.java)
 - [ASpellCheck.java](./Implementation/ASpellCheck.java)
 - [ASquare.java](./Implementation/ASquare.java)
@@ -64,6 +68,7 @@ The solutions are organized into the following topic subdirectories:
 - [BFileName.java](./Implementation/BFileName.java)
 - [BIcpcBalloons.java](./Implementation/BIcpcBalloons.java)
 - [BMatrixRotation.java](./Implementation/BMatrixRotation.java)
+- [BNewYearCake.java](./Implementation/BNewYearCake.java)
 - [BNotQuiteLatinSquare.java](./Implementation/BNotQuiteLatinSquare.java)
 - [BOsuMania.java](./Implementation/BOsuMania.java)
 - [BSkibidusAndOhio.java](./Implementation/BSkibidusAndOhio.java)
@@ -73,7 +78,7 @@ The solutions are organized into the following topic subdirectories:
 - [D1DEraser.java](./Implementation/D1DEraser.java)
 - [FJzzhuAndChildren.java](./Implementation/FJzzhuAndChildren.java)
 
-### 📁 [Math](./Math/) (48 problems)
+### 📁 [Math](./Math/) (55 problems)
 
 - [AAiProjectDevelopment.java](./Math/AAiProjectDevelopment.java)
 - [AAliceAndBooks.java](./Math/AAliceAndBooks.java)
@@ -85,10 +90,14 @@ The solutions are organized into the following topic subdirectories:
 - [ABlackslexAndPassword.java](./Math/ABlackslexAndPassword.java)
 - [ABrickWall.java](./Math/ABrickWall.java)
 - [AC.java](./Math/AC.java)
+- [AClosestPoint.java](./Math/AClosestPoint.java)
+- [ADigitsSum.java](./Math/ADigitsSum.java)
 - [ADivideAndConquer.java](./Math/ADivideAndConquer.java)
 - [AEhabAndGcd.java](./Math/AEhabAndGcd.java)
+- [AEscalatorConversations.java](./Math/AEscalatorConversations.java)
 - [AFashionablee.java](./Math/AFashionablee.java)
 - [AFibonacciness.java](./Math/AFibonacciness.java)
+- [AFriendlyNumbers.java](./Math/AFriendlyNumbers.java)
 - [AGameOfDivision.java](./Math/AGameOfDivision.java)
 - [AGamesOnTheTrain.java](./Math/AGamesOnTheTrain.java)
 - [AGregorAndCryptography.java](./Math/AGregorAndCryptography.java)
@@ -101,14 +110,17 @@ The solutions are organized into the following topic subdirectories:
 - [ANewWorldNewMeNewArray.java](./Math/ANewWorldNewMeNewArray.java)
 - [AOnlyOneDigit.java](./Math/AOnlyOneDigit.java)
 - [AOnlyPluses.java](./Math/AOnlyPluses.java)
+- [AOptimalPath.java](./Math/AOptimalPath.java)
 - [APhoenixAndBalance.java](./Math/APhoenixAndBalance.java)
 - [ARestoringThreeNumbers.java](./Math/ARestoringThreeNumbers.java)
 - [ASakurakoAndKosuke.java](./Math/ASakurakoAndKosuke.java)
+- [ASatisfyingConstraints.java](./Math/ASatisfyingConstraints.java)
 - [AShizukuHoshikawaAndFarmLegs.java](./Math/AShizukuHoshikawaAndFarmLegs.java)
 - [ASieveOfErato67Henes.java](./Math/ASieveOfErato67Henes.java)
 - [ASquareYear.java](./Math/ASquareYear.java)
 - [ASublimeSequence.java](./Math/ASublimeSequence.java)
 - [AThe67ThIntegerProblem.java](./Math/AThe67ThIntegerProblem.java)
+- [AThreeNumbersOnTheBlackboard.java](./Math/AThreeNumbersOnTheBlackboard.java)
 - [AThreePairwiseMaximums.java](./Math/AThreePairwiseMaximums.java)
 - [ATrippiTroppi.java](./Math/ATrippiTroppi.java)
 - [ATurtlePuzzleRearrangeAndNegate.java](./Math/ATurtlePuzzleRearrangeAndNegate.java)
@@ -121,10 +133,10 @@ The solutions are organized into the following topic subdirectories:
 - [BThe67Th67IntegerProblem.java](./Math/BThe67Th67IntegerProblem.java)
 - [BTheThirdSide.java](./Math/BTheThirdSide.java)
 - [BWhoSOpposite.java](./Math/BWhoSOpposite.java)
-- [CSumInBinaryTree.java](./Math/CSumInBinaryTree.java)
 - [CountingLcmEasy.java](./Math/CountingLcmEasy.java)
+- [CSumInBinaryTree.java](./Math/CSumInBinaryTree.java)
 
-### 📁 [Greedy](./Greedy/) (45 problems)
+### 📁 [Greedy](./Greedy/) (47 problems)
 
 - [ADesorting.java](./Greedy/ADesorting.java)
 - [ADoremySPaint3.java](./Greedy/ADoremySPaint3.java)
@@ -139,6 +151,7 @@ The solutions are organized into the following topic subdirectories:
 - [AOneAndTwo.java](./Greedy/AOneAndTwo.java)
 - [AOptimalPurchase.java](./Greedy/AOptimalPurchase.java)
 - [APassingTheBall.java](./Greedy/APassingTheBall.java)
+- [ARingRoad.java](./Greedy/ARingRoad.java)
 - [ASashaAndArrayColoring.java](./Greedy/ASashaAndArrayColoring.java)
 - [ASlimesOnALine.java](./Greedy/ASlimesOnALine.java)
 - [AStoneGame.java](./Greedy/AStoneGame.java)
@@ -160,6 +173,7 @@ The solutions are organized into the following topic subdirectories:
 - [BPartyMonster.java](./Greedy/BPartyMonster.java)
 - [BRemovePrefix.java](./Greedy/BRemovePrefix.java)
 - [BRestoreThePermutationByMerger.java](./Greedy/BRestoreThePermutationByMerger.java)
+- [BStartup.java](./Greedy/BStartup.java)
 - [BTriple.java](./Greedy/BTriple.java)
 - [BTwins.java](./Greedy/BTwins.java)
 - [BYetAnotherConstructive.java](./Greedy/BYetAnotherConstructive.java)
@@ -172,7 +186,7 @@ The solutions are organized into the following topic subdirectories:
 - [ECinemaLine.java](./Greedy/ECinemaLine.java)
 - [Partition.java](./Greedy/Partition.java)
 
-### 📁 [Strings](./Strings/) (11 problems)
+### 📁 [Strings](./Strings/) (14 problems)
 
 - [AAmusingJoke.java](./Strings/AAmusingJoke.java)
 - [ACasimirSStringSolitaire.java](./Strings/ACasimirSStringSolitaire.java)
@@ -181,15 +195,20 @@ The solutions are organized into the following topic subdirectories:
 - [ALetterHome.java](./Strings/ALetterHome.java)
 - [AYouDeleteIDelete.java](./Strings/AYouDeleteIDelete.java)
 - [AZhilyAndBracketSwapping.java](./Strings/AZhilyAndBracketSwapping.java)
+- [BAboveTheClouds.java](./Strings/BAboveTheClouds.java)
+- [BAshmal.java](./Strings/BAshmal.java)
 - [BDeleteAndConcatenate.java](./Strings/BDeleteAndConcatenate.java)
 - [BinarySmile.java](./Strings/BinarySmile.java)
-- [CStringTask.java](./Strings/CStringTask.java)
+- [BSymmetricEncoding.java](./Strings/BSymmetricEncoding.java)
 - [CountingCharacters.java](./Strings/CountingCharacters.java)
+- [CStringTask.java](./Strings/CStringTask.java)
 
-### 📁 [Two Pointers & Arrays](./Two_Pointers_and_Arrays/) (6 problems)
+### 📁 [Two Pointers & Arrays](./Two_Pointers_and_Arrays/) (8 problems)
 
 - [AConvergence.java](./Two_Pointers_and_Arrays/AConvergence.java)
 - [ADestroyingTowers.java](./Two_Pointers_and_Arrays/ADestroyingTowers.java)
+- [AOperationsWithInversions.java](./Two_Pointers_and_Arrays/AOperationsWithInversions.java)
+- [ARumbNeedsAHand.java](./Two_Pointers_and_Arrays/ARumbNeedsAHand.java)
 - [AServalAndMochaSArray.java](./Two_Pointers_and_Arrays/AServalAndMochaSArray.java)
 - [AThresholdMovement.java](./Two_Pointers_and_Arrays/AThresholdMovement.java)
 - [CPrependAndAppend.java](./Two_Pointers_and_Arrays/CPrependAndAppend.java)
@@ -213,20 +232,23 @@ The solutions are organized into the following topic subdirectories:
 - [DXeniaAndBitOperations.java](./Data_Structures_and_Segment_Tree/DXeniaAndBitOperations.java)
 - [EXorOnSegment.java](./Data_Structures_and_Segment_Tree/EXorOnSegment.java)
 
-### 📁 [Constructive & Sorting](./Constructive_and_Sorting/) (14 problems)
+### 📁 [Constructive & Sorting](./Constructive_and_Sorting/) (17 problems)
 
+- [AConcatenationOfArrays.java](./Constructive_and_Sorting/AConcatenationOfArrays.java)
 - [ADbmbAndTheArray.java](./Constructive_and_Sorting/ADbmbAndTheArray.java)
+- [ADivisiblePermutation.java](./Constructive_and_Sorting/ADivisiblePermutation.java)
 - [ADrawASquare.java](./Constructive_and_Sorting/ADrawASquare.java)
 - [AFarmpiggieAndSubsetSum.java](./Constructive_and_Sorting/AFarmpiggieAndSubsetSum.java)
 - [AIskanderAndDrawings.java](./Constructive_and_Sorting/AIskanderAndDrawings.java)
 - [APalindromeDance.java](./Constructive_and_Sorting/APalindromeDance.java)
+- [ASecondOrderStatistics.java](./Constructive_and_Sorting/ASecondOrderStatistics.java)
 - [ASpecialPermutation.java](./Constructive_and_Sorting/ASpecialPermutation.java)
 - [ASystemOfEquations.java](./Constructive_and_Sorting/ASystemOfEquations.java)
 - [AWhoWatchesTheWatchpig.java](./Constructive_and_Sorting/AWhoWatchesTheWatchpig.java)
 - [BChoosingCubes.java](./Constructive_and_Sorting/BChoosingCubes.java)
 - [CIsamatdinAndHisMagicWand.java](./Constructive_and_Sorting/CIsamatdinAndHisMagicWand.java)
-- [CStepanAndPermutation.java](./Constructive_and_Sorting/CStepanAndPermutation.java)
 - [ComfortableSeating.java](./Constructive_and_Sorting/ComfortableSeating.java)
+- [CStepanAndPermutation.java](./Constructive_and_Sorting/CStepanAndPermutation.java)
 - [DYaroslavAndProductivity.java](./Constructive_and_Sorting/DYaroslavAndProductivity.java)
 - [EMashaAndTheGarland.java](./Constructive_and_Sorting/EMashaAndTheGarland.java)
 
