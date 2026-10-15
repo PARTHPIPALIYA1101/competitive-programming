@@ -282,4 +282,4 @@ The solutions are organized into the following topic subdirectories:
 - **Language**: Java
 - **Platform**: Codeforces
 
-⭐ Feel free to explore the solutions!
+⭐ Feel free to explore the solutions!!
